@@ -5,6 +5,7 @@ import MainContainer from "./components/MainContainer";
 import './App.css';
 
 function App() {
+  console.log("App")
   return (
     <>
       <Header />
